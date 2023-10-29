@@ -52,7 +52,6 @@ To get started with your own Personal Resume Website, follow these steps:
 2. Clone the repository to your local machine.
    ```
    git clone https://github.com/Naivedya-Rai/Quick-Resume.git
-   
    ```
 4. Customize the HTML and CSS files with your personal information.
 5. Test your website locally to ensure everything looks and works as expected.
